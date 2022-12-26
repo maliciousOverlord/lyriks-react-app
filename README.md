@@ -33,6 +33,7 @@ To get started with development, you need to install few tools
    ```shell
     node --version
    ```
+   
 
 3. npm
   
@@ -133,4 +134,5 @@ Here we are going to focus on 2. Creating a Topical Branch:
 
 8. You have successfully created a pull request. Now wait for mentor approval. Once approved, you can merge the pull request.
 
-#
+#URL https://lyriks-app-tanay.netlify.app/
+
